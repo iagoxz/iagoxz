@@ -1,7 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=32C754FF&textBg=false)
+<div align="center">
 
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=32C754FF&textBg=false)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira-Code&size=25&pause=1000&color=32C754&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+Iago+Moura;Eu+sou+Desenvolvedor+de+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira-Code&size=30&pause=1000&color=32C754&center=true&vCenter=true&width=435&lines=Hello!+I'm+Iago+Moura;I'm+Software+Developer)](https://git.io/typing-svg)
+
+</div>
+
 ###
 
 <div align="center">
@@ -16,7 +20,7 @@
 
 ###
 
-<h2 align="center">Contate-me</h2>
+<h2 align="center">Contact me</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/iagomoura-dev/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
@@ -46,10 +50,10 @@
 
 ---
 
-## Sobre mim
+## About me
 
-Olá! Sou o Iago Moura, um Desenvolvedor Full Stack apaixonado por criar soluções inovadoras. Minha jornada no mundo da tecnologia começou no IFPI (Instituto Federal do Piauí), onde me aprofundei em Análise e Desenvolvimento de Sistemas, construindo uma base sólida que me permite transitar com fluidez tanto no frontend quanto no backend.
+Hello! I'm Iago Moura, a Full Stack Developer passionate about creating innovative solutions. My journey into technology began at IFPI (Federal Institute of Piauí), where I delved deeper into Systems Analysis and Development, building a solid foundation that allows me to move fluidly across both frontend and backend.
 
-No dia a dia, trabalho com tecnologias como Python, JavaScript, Node.js, e sou fã de bibliotecas como React para interfaces dinâmicas. Em relação a bancos de dados, me sinto em casa com MongoDB e PostgreSQL.
+On a daily basis, I work with technologies like Python, JavaScript, and Node.js, and I'm a fan of libraries like React for dynamic interfaces. When it comes to databases, I feel at home with MongoDB and PostgreSQL.
 
 ---
