@@ -1,10 +1,49 @@
+<h1 align="center">👋 Olá! Eu sou o Iago Moura e sou Desenvolvedor de Software</h1>
 
-### 👋 Olá! Eu sou o Iago Moura, Apaixonado por tecnologia e inovação👾, estou sempre em busca de novos desafios.
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iagoxzs/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/iagodev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iagoxzs)
+###
 
-![Iago GitHub stats](https://github-readme-stats.vercel.app/api?username=iagoxz&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo"  />
+</div>
 
-## Tecnologias que eu mais uso:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagoxz&hide_progress=true)
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/iagomoura-dev/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</div>
+
+###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=iagoxz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=iagoxz&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4&title=-Stars,-Followers,-Issues,-PullRequest,-Reviews"alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iagoxz/iagoxz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iagoxz/iagoxz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iagoxz/iagoxz/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## Sobre mim
+
+Olá! Sou o Iago Moura, um Desenvolvedor Full Stack apaixonado por criar soluções inovadoras. Minha jornada no mundo da tecnologia começou no IFPI (Instituto Federal do Piauí), onde me aprofundei em Análise e Desenvolvimento de Sistemas, construindo uma base sólida que me permite transitar com fluidez tanto no frontend quanto no backend.
+
+No dia a dia, trabalho com tecnologias como Python, JavaScript e Node.js, e sou fã de bibliotecas como React para interfaces dinâmicas. Em relação a bancos de dados, me sinto em casa com MongoDB e PostgreSQL.
+
+---
+
