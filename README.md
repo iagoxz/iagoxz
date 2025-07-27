@@ -1,6 +1,7 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=32C754FF&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=32C754FF&textBg=false)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira-Code&size=30&pause=1000&color=32C754&center=true&vCenter=true&width=435&lines=Hello!+I'm+Iago+Moura;I'm+Software+Developer)](https://git.io/typing-svg)
 
