@@ -20,18 +20,6 @@
 </div>
 
 ###
-
-<h2 align="center">Contact me</h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/iagomoura-dev/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="mailto:iagomsdev@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-</div>
-
-###
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=iagoxz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
@@ -48,6 +36,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iagoxz/iagoxz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iagoxz/iagoxz/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<h2 align="center">Contact me</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/iagomoura-dev/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:iagomsdev@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+</div>
 
 ---
 
